@@ -12,6 +12,7 @@ When the user clicks on PICK TIME button, then Time Picker Dialog will open. Her
 
 
 The Picked Time will be displayed then on the screen-
+
 Some Example Screens-
 
 ![Screenshot_20210523-162544](https://user-images.githubusercontent.com/64889275/119257929-2524b680-bbe5-11eb-8c87-0e5abd343066.png)
